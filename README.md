@@ -127,7 +127,7 @@ Fone: (19) 3845-4946
 
 ---
 
-**Desenvolvido por Manus AI**  
+**Desenvolvido por Juan Mendes**  
 **Data**: 21 de julho de 2025  
 **Versão**: 1.0
 
